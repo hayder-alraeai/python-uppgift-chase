@@ -18,7 +18,7 @@ class User:
         )
 
 
-POSTS: User = []
+POSTS = []
 MENU: str = """
     1- Create a post:
     2- Print posts:
